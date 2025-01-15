@@ -1,1 +1,5 @@
-west update
+manifest:
+  projects:
+    - name: zmk
+      remote: zmkfirmware
+      revision: v3.5.0
